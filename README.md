@@ -1,6 +1,3 @@
 # hello-world
-Just another repository
-Ciao
-sono bello e un po' pazzerello
+My first git repository
 
-Fedo
